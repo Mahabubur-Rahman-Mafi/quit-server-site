@@ -26,6 +26,11 @@ app.get('/courses/:id', (req, res) => {
      const selectedCourse = courses.find((n) => n._id === id);
      res.send(selectedCourse);
 });
+app.get('/courses/:url', (req, res) => {
+    const id = req.params.id;
+     const selectedName = courses.filter((n) => n.urlId === id);
+     res.send(selectedName);
+});
 
 app.listen(port, () => {
   console.log(port);
