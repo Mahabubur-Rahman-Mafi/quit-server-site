@@ -1,0 +1,26 @@
+[
+  {
+    "id": "01",
+    "name": "PhotoShop"
+  },
+  {
+    "id": "02",
+    "name": "Illustrator"
+  },
+  {
+    "id": "03",
+    "name": "HTML"
+  },
+  {
+    "id": "04",
+    "name": "JavaScript"
+  },
+  {
+    "id": "05",
+    "name": "Css"
+  },
+  {
+    "id": "06",
+    "name": "React"
+  }
+]
