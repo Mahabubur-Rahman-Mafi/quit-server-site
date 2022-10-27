@@ -27,11 +27,6 @@ app.get('/courses/:id', (req, res) => {
      const selectedCourse = courses.find((n) => n._id === id);
      res.send(selectedCourse);
 });
-app.get('/details/:url', (req, res) => {
-    const id = req.params.id
-     const selectedName = details.find((n) => n._url === id);
-     res.send(selectedName);
-});
 
 app.listen(port, () => {
   console.log(port);
