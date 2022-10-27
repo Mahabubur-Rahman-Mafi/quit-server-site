@@ -1,12 +1,12 @@
 [
   {
     "_id": "01",
-    "urlId":"0282e0e58a5c404fbd15261f11c2",
+    "_url": "0282e0e58a5c404fbd15261f11c2ab6a",
     "others": {
       "is_live": false,
       "isFree": "Free"
     },
-    "tl":"Photoshop",
+    "tl": "Photoshop",
     "rating": { "number": 4.7, "badge": "Excellent" },
     "total_Student": 495,
     "title": "PhotoShop Basic to Advance",
@@ -20,7 +20,7 @@
     "details": "Adobe Photoshop is a raster graphics editor developed and published by Adobe Inc. for Windows and macOS. It was originally created in 1988 by Thomas and John Knoll. Since then, the software has become the industry standard not only in raster graphics editing, but in digital art as a whole. The software's name is often colloquially used as a verb. Photoshop can edit and compose raster images in multiple layers and supports masks, alpha compositing and several color models including RGB, CMYK, CIELAB, spot color, and duotone. Photoshop uses its own PSD and PSB file formats to support these features. In addition to raster graphics, Photoshop has limited abilities to edit or render text and vector graphics (especially through clipping path for the latter), as well as 3D graphics and video. Its feature set can be expanded by plug-ins; programs developed and distributed independently of Photoshop that run inside it and offer new or enhanced features.",
     "course_Details": {
       "course": "It is a pre recorded course and Free Courses. You can learn when ever you want. But you have to finished it must on time to get your website.",
-      "quiz": "You have to participate all the quizes otherwise you will not able to watch the next video",
+      "quiz": "you have to participate all the quizes otherwise you will not able to watch the next video",
       "assignment": "All finishes all the classes you will get an assignment. You have to finished it on time. Our course mentor review your project and discuss about all the thing.",
       "carefull": "Be carefull. Don't just watch the video. Practice properly. In assignment you will also face some project related question and your working flow. If our team think or find you are just copy and paste your project. You will n't get the certificate "
     }
@@ -28,7 +28,7 @@
 
   {
     "_id": "02",
-    "urlId": "0282e0e58c404fbd15261f11c2ab6a",
+    "_url": "0282e0e58a5c404fbd15261f11c2ab6b",
     "others": {
       "is_live": false,
       "isFree": "Free"
@@ -39,7 +39,6 @@
     "title": "Logo Design with Abode Illustrator",
     "instructor": {
       "name": "Korim Hossain",
-      "about": "He has been working from 5-6 years in this industry",
       "img": "https://res.cloudinary.com/dtwfvwjhw/image/upload/v1666782266/04-min_xm9ibx.jpg"
     },
     "duration": 3,
@@ -47,7 +46,7 @@
     "details": "Development of Adobe Illustrator for the Apple Macintosh began in 1985[2] (shipping in January 1987) as a commercialization of Adobe's in-house font development software and PostScript file format. Adobe Illustrator is the companion product of Adobe Photoshop. Photoshop is primarily geared toward digital photo manipulation and photorealistic styles of computer illustration, while Illustrator provides results in the typesetting and logo graphic areas of design. Early magazine advertisements (featured in graphic design trade magazines such as Communication Arts) referred to the product as the Adobe Illustrator. Illustrator 88, the product name for version 1.7,[3] was released in 1988 and introduced many new tools and features. Byte in 1989 listed Illustrator 88 as among the Distinction winners of the Byte Awards, stating that with it Adobe had pulled ahead of previously industry-dominant competitor Aldus FreeHand. Early versions of the software did not support working in preview mode and users needed to have two windows open on their desktop in order to have a live preview of their work. One window would show the work in progress and the other window would show a preview of the work in progress.",
     "course_Details": {
       "course": "It is a pre recorded course and Free Courses. You can learn when ever you want. But you have to finished it must on time to get your website.",
-      "quiz": "You have to participate all the quizes otherwise you will not able to watch the next video",
+      "quiz": "you have to participate all the quizes otherwise you will not able to watch the next video",
       "assignment": "All finishes all the classes you will get an assignment. You have to finished it on time. Our course mentor review your project and discuss about all the thing.",
       "carefull": "Be carefull. Don't just watch the video. Practice properly. In assignment you will also face some project related question and your working flow. If our team think or find you are just copy and paste your project. You will n't get the certificate "
     }
@@ -55,7 +54,7 @@
 
   {
     "_id": "03",
-    "urlId": "02e0e58a5c404fbd15261f11c2ab6a",
+    "_url": "f69a695f037cd9484cecaea37ca71011",
     "others": {
       "is_live": false,
       "isFree": "Paid"
@@ -66,7 +65,6 @@
     "title": "Let's start with HTMl5",
     "instructor": {
       "name": "Jennifer Wood",
-      "about": "She has been working from 5-6 years in this industry",
       "img": "https://res.cloudinary.com/dtwfvwjhw/image/upload/v1666782273/02-min_uygudf.jpg"
     },
     "duration": 1,
@@ -74,14 +72,14 @@
     "details": "The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document. HTML elements are the building blocks of HTML pages. With HTML constructs, images and other objects such as interactive forms may be embedded into the rendered page. HTML provides a means to create structured documents by denoting structural semantics for text such as headings, paragraphs, lists, links, quotes and other items. HTML elements are delineated by tags, written using angle brackets. Tags such as <img /> and <input /> directly introduce content into the page. Other tags such as <p> surround and provide information about document text and may include other tags as sub-elements. Browsers do not display the HTML tags but use them to interpret the content of the page.",
     "course_Details": {
       "course": "It is a pre recorded course and Free Courses. You can learn when ever you want. But you have to finished it must on time to get your website.",
-      "quiz": "You have to participate all the quizes otherwise you will not able to watch the next video",
+      "quiz": "you have to participate all the quizes otherwise you will not able to watch the next video",
       "assignment": "All finishes all the classes you will get an assignment. You have to finished it on time. Our course mentor review your project and discuss about all the thing.",
       "carefull": "Be carefull. Don't just watch the video. Practice properly. In assignment you will also face some project related question and your working flow. If our team think or find you are just copy and paste your project. You will n't get the certificate "
     }
   },
   {
     "_id": "04",
-    "urlId": "0282e0e58a5c404fbd15261f11c26a",
+    "_url": "0282e0e58a5c404fbd15261f11c26a",
     "others": {
       "is_live": false,
       "isFree": "Paid"
@@ -92,7 +90,6 @@
     "title": "Let's Play with JavaScript",
     "instructor": {
       "name": "Hasibur Rahman",
-      "about": "He has been working from 5-6 years in this industry",
       "img": "https://res.cloudinary.com/dtwfvwjhw/image/upload/v1666782260/05-min_zu2ijc.jpg"
     },
     "duration": 3,
@@ -100,7 +97,7 @@
     "details": "JavaScript (/ˈdʒɑːvəskrɪpt/), often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries. All major web browsers have a dedicated JavaScript engine to execute the code on users' devices. JavaScript is a high-level, often just-in-time compiled language that conforms to the ECMAScript standard.[10] It has dynamic typing, prototype-based object-orientation, and first-class functions. It is multi-paradigm, supporting event-driven, functional, and imperative programming styles. It has application programming interfaces (APIs) for working with text, dates, regular expressions, standard data structures, and the Document Object Model (DOM). The ECMAScript standard does not include any input/output (I/O), such as networking, storage, or graphics facilities. In practice, the web browser or other runtime system provides JavaScript APIs for I/O. JavaScript engines were originally used only in web browsers, but are now core components of some servers and a variety of applications. The most popular runtime system for this usage is Node.js. Although Java and JavaScript are similar in name, syntax, and respective standard libraries, the two languages are distinct and differ greatly in design.",
     "course_Details": {
       "course": "It is a pre recorded course and Free Courses. You can learn when ever you want. But you have to finished it must on time to get your website.",
-      "quiz": "You have to participate all the quizes otherwise you will not able to watch the next video",
+      "quiz": "you have to participate all the quizes otherwise you will not able to watch the next video",
       "assignment": "All finishes all the classes you will get an assignment. You have to finished it on time. Our course mentor review your project and discuss about all the thing.",
       "carefull": "Be carefull. Don't just watch the video. Practice properly. In assignment you will also face some project related question and your working flow. If our team think or find you are just copy and paste your project. You will n't get the certificate "
     }
@@ -108,7 +105,7 @@
 
   {
     "_id": "05",
-    "urlId": "0282e0e58c404fbd261f11c2ab6a",
+    "_url": "0282e0e58c404fbd261f11c2ab6a",
     "others": {
       "is_live": false,
       "isFree": "Paid"
@@ -119,7 +116,6 @@
     "title": "Css advance to Basic with animation",
     "instructor": {
       "name": "Mahabubur Rahman",
-      "about": "He has been working from 5-6 years in this industry",
       "img": "https://res.cloudinary.com/dtwfvwjhw/image/upload/v1666782348/06-min_pkheja.jpg"
     },
     "duration": 2,
@@ -127,14 +123,14 @@
     "details": "WASHINGTON: President Joe Biden announced nearly $3 billion in military aid to Kyiv on Wednesday -- the biggest US package so far -- to mark Ukraine's independence day, six months after Russia invaded the country. The package aims to fortify Ukraine's military over the coming two years by committing the production and... read full story",
     "course_Details": {
       "course": "It is a pre recorded course and Free Courses. You can learn when ever you want. But you have to finished it must on time to get your website.",
-      "quiz": "You have to participate all the quizes otherwise you will not able to watch the next video",
+      "quiz": "you have to participate all the quizes otherwise you will not able to watch the next video",
       "assignment": "All finishes all the classes you will get an assignment. You have to finished it on time. Our course mentor review your project and discuss about all the thing.",
       "carefull": "Be carefull. Don't just watch the video. Practice properly. In assignment you will also face some project related question and your working flow. If our team think or find you are just copy and paste your project. You will n't get the certificate "
     }
   },
   {
     "_id": "06",
-    "urlId": "82e0e5a5c404fbd15261f11cb6a",
+    "_url": "82e0e5a5c404fbd15261f11cb6a",
     "others": {
       "is_live": true,
       "isFree": "Paid"
@@ -145,7 +141,6 @@
     "title": "Learn React with Fun way",
     "instructor": {
       "name": "Maria Rahman",
-      "about": "She has been working from 5-6 years in this industry",
       "img": "https://res.cloudinary.com/dtwfvwjhw/image/upload/v1666782263/03-min_qrqa8s.jpg"
     },
     "duration": 6,
@@ -153,7 +148,7 @@
     "details": "React is a JavaScript library developed by Facebook which, among other things, was used to build Instagram.com. Its aim is to allow developers to easily create fast user interfaces for websites and applications alike. The main concept of React. js is virtual DOM.",
     "course_Details": {
       "course": "It is a pre recorded course and Free Courses. You can learn when ever you want. But you have to finished it must on time to get your website.",
-      "quiz": "You have to participate all the quizes otherwise you will not able to watch the next video",
+      "quiz": "you have to participate all the quizes otherwise you will not able to watch the next video",
       "assignment": "All finishes all the classes you will get an assignment. You have to finished it on time. Our course mentor review your project and discuss about all the thing.",
       "carefull": "Be carefull. Don't just watch the video. Practice properly. In assignment you will also face some project related question and your working flow. If our team think or find you are just copy and paste your project. You will n't get the certificate "
     }
